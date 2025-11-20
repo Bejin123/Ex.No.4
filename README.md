@@ -30,5 +30,4 @@ Smart sensors integrated with AI can transform urban pipeline management by enab
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
 
